@@ -28,3 +28,38 @@
 // document.getElementById("myH1").textContent = `${h1} bro`
 // document.getElementById("myP").textContent = `${p} again.`
 // document.getElementById("myH2").textContent = `Bye ${h2}`
+
+// lesson 3        math
+
+// let x = 3
+// x += 1
+// x -= 1
+// x *= 2
+// x /= 2
+// x **=2
+// x %=2
+
+// x--
+// x++
+// console.log(x)
+
+//lesson 4 input
+
+// let username
+
+// username = window.prompt(`What is your name:`)
+
+// console.log(username)
+
+// document.getElementById("mySubmit").onclick = function(){
+//     username = document.getElementById("myText").value
+//     console.log(username)
+//     document.getElementById("myH1").textContent = `Hello ${username}`
+// }
+
+// let age = window.prompt('how old are you?')
+
+// age += 1
+// console.log(age, typeof age)
+// age = Number(age)
+// console.log(age, typeof age)
