@@ -1,0 +1,30 @@
+// console.log(`hello`)
+
+// window.alert(`this is a alert.`)
+// window.alert(`..........`)
+
+// document.getElementById("myH1").textContent = `Hello`
+// document.getElementById("myP").textContent = `this is just a text`
+
+// lesson 2         bien
+
+// let x
+// x = 123
+// let x = 123
+// console.log(x)
+// console.log(`x = ${x} ?`)
+// console.log(typeof x)
+// let y = `hi`
+// console.log(`y = ${y}`)
+// console.log(typeof y)
+
+// let a = true
+// console.log(typeof a)
+
+// let h1 = `Welcome`
+// let p = `this just a text`
+// let h2 = `see you again`
+
+// document.getElementById("myH1").textContent = `${h1} bro`
+// document.getElementById("myP").textContent = `${p} again.`
+// document.getElementById("myH2").textContent = `Bye ${h2}`
